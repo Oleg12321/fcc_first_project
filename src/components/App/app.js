@@ -38,7 +38,9 @@ function App() {
                 className='github'
                 style={{
                   backgroundColor: '#' + colorRand, 
-                  border: '#' + colorRand}}>
+                  border: '#' + colorRand}}
+                href='https://github.com/Oleg12321'
+                target='_blank'  >
                 <AiFillGithub />
               </Button>
               <Button 
