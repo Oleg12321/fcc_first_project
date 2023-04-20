@@ -1,0 +1,45 @@
+
+body {
+  
+}
+
+.container {
+  
+}
+.quote_box {
+    padding: 1rem;
+    background-color: white;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.content_text{
+  align-items: center;
+}
+
+.text {
+
+  text-align: center;
+  width: 50%;
+}
+
+.author {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.button_box {
+    
+}
+
+.github {
+  margin-right: 5px;
+}
+
+.linkdin {
+
+}
+
+.new_quote {
+
+}
